@@ -1,4 +1,4 @@
-# Instacart Sales Pattern Analysis
+# Instacart Basket Analysis
 ## Overview
 **Instacart, an established online grocery store operating through an app, aims to delve deeper into its sales patterns. The primary focus of this project is to perform a thorough initial data and exploratory analysis to uncover valuable insights about customer behaviors and purchasing patterns. This analysis will aid in developing more effective customer segmentation and targeted marketing strategies.**
 
