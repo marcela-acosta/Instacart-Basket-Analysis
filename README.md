@@ -26,7 +26,7 @@
 - Project Management: Contains the project brief and other administrative documents.
 - Data: This is divided into:
     - Original Data: Raw datasets as provided.
-    - Prepared Data: Cleaned and processed data ready for analysis. (Note: Not included due to file size constraints)
+    - Prepared Data: Cleaned and processed data ready for analysis.
 - Scripts: Includes all Python scripts used throughout the analysis process.
 - Analysis: Visualizations and intermediate analytical findings.
 - Sent to client: The final report compiled in an Excel format, summarizing our findings and recommendations.
